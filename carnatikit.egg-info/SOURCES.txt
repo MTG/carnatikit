@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+carnatikit.egg-info/PKG-INFO
+carnatikit.egg-info/SOURCES.txt
+carnatikit.egg-info/dependency_links.txt
+carnatikit.egg-info/not-zip-safe
+carnatikit.egg-info/top_level.txt
