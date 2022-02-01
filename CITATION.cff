@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Nuttall
+    given-names: Thomas
+    orcid: https://orcid.org/0000-0001-6316-1424
+  - family-names: Plaja-Roglans
+    given-names: Genís
+    orcid: https://orcid.org/0000-0003-3450-3194
+title: "Carnatikit: Tools for the Computational Analysis of Carnatic Music"
+version: 1.0.0
+date-released: 2021-24-01
